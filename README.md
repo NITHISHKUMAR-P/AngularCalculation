@@ -144,6 +144,6 @@ export class TriangleComponent{
 </body>
 ```
 ## OUTPUT:
-![](./out.PNG)
+![](./out1.PNG)
 ## Result:
 A dynamic website has been designed to perform mathematical calculations using Angular Framwork.
