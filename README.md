@@ -137,7 +137,7 @@ export class TriangleComponent{
             <Pyramid-Volume class="forms"></Pyramid-Volume>
         </div>
         <div class="footer">
-            &copy; Copyright. All Rights Reserved | Developed by Nithishkumar P
+            &copy; Copyright. All Rights Reserved | Developed by Pradeesh S
         </div>
     </div>
 
